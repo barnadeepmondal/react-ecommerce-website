@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+.heroContainer {
+    width: 100%;
+    height: calc(100% - 90px);
+}
