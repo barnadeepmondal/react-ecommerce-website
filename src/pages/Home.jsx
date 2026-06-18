@@ -1,7 +1,7 @@
 import { useContext } from "react";
-import HeroSection from "../components/HeroSection";
-import Card from "../components/Card";
-import ProductContext from "../productContext/productContext";
+import HeroSection from "../Components/HeroSection";
+import Card from "../Components/Card";
+import ProductContext from "../ProductContext/productcontext";
 import { Link } from "react-router-dom"; // Import Link for routing
 
 const Home = () => {

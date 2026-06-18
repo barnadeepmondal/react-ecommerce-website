@@ -1,7 +1,7 @@
 import { useState, useContext } from "react"; // 1. Added useContext here
-import HeroSection from "../components/HeroSection";
-import Card from "../components/Card";
-import ProductContext from "../productContext/productContext"; // 2. Imported your Context
+import HeroSection from "../Components/HeroSection";
+import Card from "../Components/Card";
+import ProductContext from "../ProductContext/productcontext"; // 2. Imported your Context
 
 const Product = () => {
   // 3. Pull the data from Context directly, just like your Home page!
